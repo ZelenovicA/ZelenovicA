@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZelenovicA  
 - 👀 I’m interested in **software engineering, blockchain technology, and web development**  
-- 🌱 I’m currently learning **Rust, next.js, solidity and blockchain smart contracts**  
-- 💞️ I’m looking to collaborate on **open-source projects and smart contracts**  
+- 🌱 I’m currently learning **Python, next.js and java technologies**  
+- 💞️ I’m looking to collaborate on **open-source projects**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/aleksa-zelenovic-79758926b) | aleksaazelenovic@gmail.com**  
